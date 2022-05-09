@@ -13,7 +13,7 @@
 
 ## iobadaptertest adapter for ioBroker
 
-Describe your project here
+IOBroker Adapter Test
 
 ## Developer manual
 This section is intended for the developer. It can be deleted later
