@@ -16,6 +16,7 @@
 IOBroker Adapter Test
 
 Neuer DEV Server
+Test
 
 ## Developer manual
 This section is intended for the developer. It can be deleted later
